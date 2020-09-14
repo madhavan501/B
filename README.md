@@ -5,7 +5,7 @@
   </head>
   <body>
     <p><b>Name: Panthagani madhavan</b></p>
-    <p>Admission_no:19005A0501</p>
+    <p><b>Admission_no:19005A0501</b></p>
     
   </body>
   </html>
