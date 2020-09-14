@@ -4,7 +4,7 @@
     BIO DATA
   </head>
   <body>
-    <h1>Name: Panthagani madhavan</h1>
+    <h4>Name: Panthagani madhavan</h4>
   </body>
   </html>
   
