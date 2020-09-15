@@ -8,7 +8,7 @@
         <div style="display: flex; flex-wrap: wrap;justify-content: space-between">
         <div class="persdet">
             <h1>Personal Details</h1>
-            <h3>Name : Pnathagani Madhavan</h3>
+            <h3>Name : Panthagani Madhavan</h3>
             <h3>Date of birth : 17th march, 2000</h3>
             <h3>Native place : Nagavaram</h3>
             <h3>Address :2/56 Nagavaram(village),Chtivel(mandal),Kadapa(dist)</h3>
