@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
- <head>
-    <meta charset="UTF-8">
-         <title>Bio Data</title>
-  </head>
+  <title>Bio Data</title>
   <body>
     <div class="container">
       <div class="header"style="text-align:center;">
