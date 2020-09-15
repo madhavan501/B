@@ -17,7 +17,7 @@
             <h3>Native place : Nagavaram</h3>
             <h3>Address :2/56 Nagavaram(village),Chtivel(mandal),Kadapa(dist)</h3>
             <h3>Pin code : 516104</h3>
-         <h3>Contact Number:<a href="tel:+6302395782">6302395782</a></h3>
+         <h3>Contact Number: <a href="tel:6302395782">6302395782</a></h3>
             <h3>Email : <a href="mailto:panthaganimadhavan143@gmail.com?subject = Feedback&body = Message">panthaganimadhavan143@gmail.com</a></h3>
         </div>
         </div>
