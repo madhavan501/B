@@ -17,7 +17,7 @@
             <h3>Native place : Nagavaram</h3>
             <h3>Address :2/56 Nagavaram(village),Chtivel(mandal),Kadapa(dist)</h3>
             <h3>Pin code : 516104</h3>
-            <h3>Contact Number :<a href="tel:+602395782">6302395782</a></h3>
+         <h3>Contact Number:<a href="tel:+6302395782">6302395782</a></h3>
             <h3>Email : <a href="mailto:panthaganimadhavan143@gmail.com?subject = Feedback&body = Message">panthaganimadhavan143@gmail.com</a></h3>
         </div>
         </div>
@@ -37,7 +37,7 @@
       <hr>
       <div class="goal">
         <h1>Goal</h1>
-        <p>I want to become a Business <br></p>
+        <p>I want to become a Business Man<br></p>
       </div>
       <div class="summary">
         <h1>Skills</h1>
