@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-  <title>Resume</title>
-</head>
 <body>
     <div class="container">
       <div class="header"style="text-align:center;">
