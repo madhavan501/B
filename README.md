@@ -48,7 +48,7 @@
           <li>Programer</li>
         </ul>
         </div>
-        <p>*******************<h1><i><b>BEHAVIOR IS A MIRROR IN WHICH EVERY ONE DISPLAYS HIS OWN IMAGE</b></i></h1>*********************</p>
+        <p><h1><i>'BEHAVIOR IS A MIRROR IN WHICH <br>EVERY ONE DISPLAYS HIS OWN IMAGE'</i></h1></p>
        </body>
   </html>
         
