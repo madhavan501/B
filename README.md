@@ -47,10 +47,9 @@
           <li>Web Designer</li>
           <li>Programer</li>
         </ul>
-      </div>
-        <div class="about">
-        <h1></h1>
-      </body>
+        </div>
+        <p>*******************<h1><i><b>BEHAVIOR IS A MIRROR IN WHICH EVERY ONE DISPLAYS HIS OWN IMAGE</b></i></h1>*********************</p>
+       </body>
   </html>
         
         
