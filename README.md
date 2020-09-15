@@ -25,6 +25,11 @@
           <li>playing video games</li>
           <li>spending  with internet</li>
         </ul>
+  <div class="interests">
+        <h1>Interests</h1>
+        <li>I like to ride bikes in night time</li>
+      <li>Hangout with family</li>
+        </ul>
       </div>
         <div class="qualification">
             <h1>Qualifications</h1>
