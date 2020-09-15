@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
-  <title>Bio Data</title>
-  <body>
+<html>
+  <head>
+  <title>Resume</title>
+</head>
+<body>
     <div class="container">
       <div class="header"style="text-align:center;">
         <h1>BIO DATA</h1>
