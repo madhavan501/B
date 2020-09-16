@@ -2,7 +2,7 @@
 <html>
 <body>
     <div class="container">
-      <div class="header"style="text-align:center;">
+      <div class="header"style="text-align:center">
         <h1>BIO DATA</h1>
     </div>
     </div>
