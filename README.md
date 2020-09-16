@@ -15,8 +15,7 @@
             <h3>Email : <a href="mailto:panthaganimadhavan143@gmail.com?subject = Feedback&body = Message">panthaganimadhavan143@gmail.com</a></h3>
         </div>
         </div>
-    </div>
-        <hr>
+    <hr>
       <div class="hobbies">
         <h1>Hobbies</h1>
         <ul>
@@ -50,7 +49,7 @@
         </div>
         <p><h2><i>****'BEHAVIOR IS A MIRROR IN WHICH <br>EVERY ONE DISPLAYS HIS OWN IMAGE'****</i></h2></p>
        </body>
-  </html>
+      </html>
         
         
             
