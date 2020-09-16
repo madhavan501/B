@@ -5,6 +5,7 @@
       <div class="header"style="text-align:center;">
         <h1>BIO DATA</h1>
     </div>
+    </div>
         <div style="display: flex; flex-wrap: wrap;justify-content: space-between">
         <div class="persdet">
             <h1>Personal Details</h1>
@@ -26,6 +27,7 @@
           <li>spending  with internet</li>
         </ul>
   <div class="interests">
+      <ul>
         <h1>Interests</h1>
         <li>I like to ride bikes in night time</li>
       <li>Hangout with family</li>
