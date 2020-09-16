@@ -5,7 +5,6 @@
       <div class="header"style="text-align:center">
         <h1>BIO DATA</h1>
     </div>
-    </div>
         <div style="display: flex; flex-wrap: wrap;justify-content: space-between">
         <div class="persdet">
             <h1>Personal Details</h1>
@@ -18,6 +17,7 @@
             <h3>Email : <a href="mailto:panthaganimadhavan143@gmail.com?subject = Feedback&body = Message">panthaganimadhavan143@gmail.com</a></h3>
         </div>
         </div>
+    </div>
         <hr>
       <div class="hobbies">
         <h1>Hobbies</h1>
