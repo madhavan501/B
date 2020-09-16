@@ -28,7 +28,7 @@
         <h1>Interests</h1>
         <li>I like to ride bikes in night time</li>
       <li>Hangout with family</li>
-        </ul>
+      </ul>
       </div>
         <div class="qualification">
             <h1>Qualifications</h1>
