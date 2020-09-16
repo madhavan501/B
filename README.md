@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 <html>
 <body>
     <div class="container">
-      <div class="header"style="text-align:center">
-        <h1>BIO DATA</h1>
+     <h1>BIO DATA</h1>
     </div>
         <div style="display: flex; flex-wrap: wrap;justify-content: space-between">
         <div class="persdet">
